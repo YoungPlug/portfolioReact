@@ -23,7 +23,7 @@ export default function About() {
             <p>
               I'm comfortable owning a project end to end: winning the work,
               scoping the build, and managing it through to launch. My core
-              tools are <strong>HTML, CSS3, PHP, jQuery, and WordPress</strong>,
+              tools are <strong>HTML, CSS3, PHP, JavaScript,Typescript, React, Node.js, jQuery, and WordPress</strong>,
               with SEO baked in from the start rather than bolted on after.
             </p>
             <p>

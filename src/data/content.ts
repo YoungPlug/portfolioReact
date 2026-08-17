@@ -25,7 +25,7 @@ export const stackLayers: StackLayer[] = [
   {
     index: 'F',
     label: 'Front-end & web',
-    chips: ['HTML / CSS3', 'JavaScript', "Typescript", "React", 'jQuery', 'WordPress', 'SEO'],
+    chips: ['HTML / CSS3', 'JavaScript', "Typescript", "React", "Node.js",'jQuery', 'WordPress', 'SEO'],
   },
   {
     index: 'B',
@@ -48,6 +48,8 @@ export const stackLayers: StackLayer[] = [
       'Windows Presentation Foundation',
       'Windows App Development',
       'Desktop App Testing',
+      'Flutter',
+      'Dart',
     ],
   },
 ]
@@ -60,6 +62,14 @@ export const projects: Project[] = [
       "A personal project built for a skateboard deck brand using ASP.NET Core and Razor Pages: a full product catalog, an order processing system, and a responsive UI styled with Bootstrap.",
     tags: ['ASP.NET Core', 'Razor Pages', 'Bootstrap'],
     linkHref: 'https://github.com/YoungPlug/TomorrowSkateCrew',
+    linkLabel: 'View on GitHub →',
+  },
+  {
+    num: '02',
+    title: '3D Deck Viewer',
+    description: 'A Web-3D viewer of a deck from new collection in collaboration with Vlad Aryanov',
+    tags: ['React', 'TypeScript', 'Vite'],
+    linkHref: 'https://github.com/YoungPlug/DeckViewer',
     linkLabel: 'View on GitHub →',
   },
 ]
